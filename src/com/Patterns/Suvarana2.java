@@ -18,7 +18,7 @@ public class Suvarana2 {
         		s2=s2+ch[i];
         	}
         }
-        System.out.println("The Numbers Are Present In The First String;"+s2);
+        System.out.println("The Numbers Are Present In The First String:"+s2);
        
         String s3="";
         for(int i=0;i<s1.length();i++) {
@@ -26,7 +26,7 @@ public class Suvarana2 {
             	 s3=s3+s1.charAt(i);
              }
         }
-        System.out.println("The numbers present in the second string"+s3);
+        System.out.println("The numbers present in the second string;"+s3);
 	}
 
 }
